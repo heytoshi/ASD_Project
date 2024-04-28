@@ -1,0 +1,12 @@
+   - The system should allow users to create their own account.
+   - The system should allow users to save and update their profile information, including First Name, Last Name, Contact Phone Number, Email, Location, and interests related to books.
+   - The system should allow users to list books available for lending or exchange, including Title, Author, Genre, and Condition.
+   - The system should allow users to search for books based on title, author, or genre, and return results if available.
+   - The system should allow users to submit requests or exchange books.
+   - The system should notify the book owner of the request.
+   - The system should allow book owners to approve or reject requests, initiating the exchange process upon approval.
+   - The system should allow users to track their borrowing and lending history, including books borrowed, lent, or exchanged, transaction dates, and status (pending, approved, returned).
+   - The system should enforce a limit of 3 borrowed books at a time per user.
+   - The system should prevent users from requesting new books if they have unresolved previous transactions.
+   - The system should allow users to update their available books or preferences at any time.
+
