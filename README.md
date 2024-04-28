@@ -1,7 +1,14 @@
-The system will be used by people who are willing to exchange books with each other in the community. Users can lend, borrow, or exchange books. Each user is given a unique ID number, and First Name, Last Name, Contact Phone Number, Email, and Location will be saved in the system. Users can list the books they have available for lending or exchange, including the book title, author, genre, and condition. Also, they can search for their favorite books and the system will do a query and return the result if it’s available.
 
-If a user finds a book, they submit a request to borrow the book or exchange it. The system notifies the book owner of the request, and if it’s approved, the exchange will be initiated. Users can also write about their own interests on their profile, this will help other users to suggest a book that is more likely to peek the other users’ interest.
+Locations:
+    Diagrams ---> diagrams
+    CI/CD ---> .github/workflows
+    React frontend code ---> frontend
+    Requirements---> requirements/problem_statement
+    Problem statement---> requirements/problem_statement
 
-The system should track the borrowing and lending history for each user, including details of books borrowed, lent, or exchanged, dates of transactions, and status (pending, approved, returned). Users should be able to view their transaction history and update their available books or preferences at any time.
+Deployment links:
 
-To prevent less problems between transaction, a user cannot borrow more than 3 books at the same time. Additionally, the system should prevent users from requesting a new book if they haven’t resolved their previous transactions.
+    Front-end (ReactJS) --> https://project-front.azurewebsites.net/
+    Back-end (Spring) --> https://project-back.azurewebsites.net/
+    MySQL ---> asd-mysql.mysql.database.azure.com
+    
