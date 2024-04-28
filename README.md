@@ -1,5 +1,6 @@
 
 Locations:
+
     Diagrams ---> artifacts/diagrams
     CI/CD ---> .github/workflows
     React frontend code ---> frontend
