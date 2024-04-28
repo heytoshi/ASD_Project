@@ -13,3 +13,7 @@ Deployment links:
     Back-end (Spring) --> https://project-back.azurewebsites.net/
     MySQL ---> asd-mysql.mysql.database.azure.com
 
+Test accounts:
+    
+    username: jane_doe
+    password: test123
