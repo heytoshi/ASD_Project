@@ -16,4 +16,4 @@ Deployment links:
 Test accounts:
     
     username: jane_doe
-    password: test123
+    password: test1234
